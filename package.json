@@ -26,6 +26,6 @@
     "tsc": "tsc",
     "tinyserv": "node server/tinyserv"
   },
-  "author": "Tony Curtis",
+  "author": "Samson Williams",
   "license": "MIT"
 }
